@@ -1,0 +1,7 @@
+Beste,
+
+Gelieve voor het opstarten van het systeem de JAR-files die zich bevinden in de meegegeven map met naam ’JAR-files’ toe te voegen aan de libaries. Het gaat om de mail,itext en jdatepicker libaries.
+
+Gelieve in de klasse ’maakPDF’ de locatie waar de rapporten moeten opgeslagen worden te spciefieren. Momenteel staat de link naar de H-schijf van 1 van de groepsleden. Gelieve dit te veranderen naar de door jullie gewenste bestemming.
+
+Ons systeem wordt gestart door de klasse ’GUI_Startscherm’ te runnen. Die zich in ge GUI-package bevindt.
